@@ -1,4 +1,4 @@
-I am a dedicated 26-year-old Full Stack Developer with expertise in Java and Spring Boot. I also have knowledge about JavaScript, Angular, NodeJS, and Python. With a strong foundation in Agile Project Management and a love for databases - both relational and not, I bring a unique blend of technical proficiency and project management prowess to the table.
+I am a dedicated 27-year-old Full Stack Developer with expertise in Java and Spring Boot. I also have knowledge about JavaScript, Angular, NodeJS, and Python. With a strong foundation in Agile Project Management and a love for databases - both relational and not, I bring a unique blend of technical proficiency and project management prowess to the table.
 
 As a Full Stack Developer, I have honed my skills in designing and developing robust, scalable, and efficient web applications. From front-end development using JavaScript with Angular, and NodeJS or Java with Spring Boot to back-end programming, I thrive in creating seamless user experiences and ensuring optimal performance across the stack.
 
